@@ -1,0 +1,36 @@
+
+
+.form {
+    margin: 170px auto;
+    max-width: 500px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    /* max-height: 500px; */
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+button{
+    width: 300px;
+    margin-bottom: 5px;
+    height: fit-content;
+    padding: 10px 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid gray;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 300px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid gray;
+    padding: 10px;
+
+}
